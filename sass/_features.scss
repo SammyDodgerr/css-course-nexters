@@ -8,6 +8,9 @@
   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
   grid-gap: 6rem;
   align-items: start;
+
+  //@supports(display: grid){grid code}
+  //fallback code overwrite after support code
 }
 
 .feature {
