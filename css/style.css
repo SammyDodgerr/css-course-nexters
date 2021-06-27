@@ -395,7 +395,7 @@ body {
 .footer {
   background-color: #101d2c;
   grid-column: full-start / full-end;
-  padding: 5rem 2rem; }
+  padding: 5rem 2rem 2rem; }
 
 .nav {
   list-style: none;
